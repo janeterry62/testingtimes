@@ -6,3 +6,5 @@ penguins %>%
   geom_histogram()
 
 view(penguins)
+
+Hi there!
