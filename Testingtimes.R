@@ -8,3 +8,4 @@ penguins %>%
 view(penguins)
 
 Hi there!
+Kia ora
